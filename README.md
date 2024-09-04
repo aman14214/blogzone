@@ -1,7 +1,7 @@
 # React Blog Project
 
 ## Project Demo
-Visit the [MERN Blog Project](https://react-blog-project-quxu.vercel.app/) to explore the live demo.
+Visit the [MERN Blog Project](https://blogzone-chi.vercel.app/) to explore the live demo.
 
 ## Description
 This project is a MERN Stack-based blog application designed for creating, editing, and managing blog posts. It utilizes Redux for state management, Appwrite as the backend service provider, and Tailwind CSS for styling. Additionally, it incorporates the React Form Hook library for form management.
@@ -34,10 +34,14 @@ This project is a MERN Stack-based blog application designed for creating, editi
 - Explore the dashboard to view, edit, and delete existing posts.
 - Use the create post form to compose new blog entries.
 - Customize the styling and themes using Tailwind CSS utilities.
-
 ## Credits
 - Redux: https://redux.js.org/
 - Appwrite: https://appwrite.io/
 - Tailwind CSS: https://tailwindcss.com/
 - React Form Hook: [https://react-hook-form.com/]
 - ![ayc](https://github.com/user-attachments/assets/b2bd0c47-f694-4b75-aad5-e0011ea79c46)
+- - # MADE BY -
+ AMAN SHARMA 
+ Btech CSE 
+ 3RD YEAR
+ IIIT JABALPUR 
