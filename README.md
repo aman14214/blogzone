@@ -39,9 +39,14 @@ This project is a MERN Stack-based blog application designed for creating, editi
 - Appwrite: https://appwrite.io/
 - Tailwind CSS: https://tailwindcss.com/
 - React Form Hook: [https://react-hook-form.com/]
-- ![ayc](https://github.com/user-attachments/assets/b2bd0c47-f694-4b75-aad5-e0011ea79c46)
+
 - - # MADE BY -
  AMAN SHARMA 
  Btech CSE 
  3RD YEAR
  IIIT JABALPUR 
+ 
+![Screenshot (460)](https://github.com/user-attachments/assets/3e32ad00-9b62-4501-9520-6c3d6fbeab7f)
+![Screenshot (459)](https://github.com/user-attachments/assets/a6f5d477-f29d-46de-bc57-769e06b4d0ab)
+![Screenshot (458)](https://github.com/user-attachments/assets/20ef162b-ea83-44d9-8ad2-9e9aea05853f)
+![Screenshot (457)](https://github.com/user-attachments/assets/603d35ee-2cea-49de-ae88-84bec4713b1d)
